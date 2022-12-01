@@ -12,9 +12,8 @@ The setup icon looks like this
 
 VirusTotal is used to check the False Positive for this setup. Here is the [report](https://www.virustotal.com/gui/file/a89571700d80d78093c3379ecf783f5b15591a008befef0599c38850dcae27af?nocache=1).
 
-* Youtube - (coming soon)
+* Youtube - [Video](https://youtu.be/DCyZ4cyVDRU)
 
 * Install [NextMind](https://www.next-mind.com/documentation/unity-sdk/tutorials/01-setting-up-environment/)
 
-
-
+#bci #neuroscience #nextmind #Unity #braincomputerinterface
